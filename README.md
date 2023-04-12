@@ -21,10 +21,12 @@ This program and README were written by ChatGPT.
 2. Install the required packages:
 
     ```bash
-    pip install SpeechRecognition
-    pip install pyaudio
-    pip install openai
     pip install ansi
+    pip install gtts
+    pip install openai
+    pip install playsound
+    pip install pyaudio
+    pip install SpeechRecognition
     ```
 
 3. Set up your OpenAI API key as an environment variable:
